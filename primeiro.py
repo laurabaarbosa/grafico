@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-from matplotlib import pyplot as plt
+
 
 st.title("Gerar Gráfico a Partir de Arquivo CSV")
 
